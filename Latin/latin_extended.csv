@@ -175,6 +175,8 @@ unicode dec,unicode hex,character,name
 7865,1EB9,ẹ,uni1EB9
 7866,1EBA,Ẻ,uni1EBA
 7867,1EBB,ẻ,uni1EBB
+7868,1EBC,Ẽ,uni1EBC
+7869,1EBD,ẽ,uni1EBD
 7870,1EBE,Ế,uni1EBE
 7871,1EBF,ế,uni1EBF
 7872,1EC0,Ề,uni1EC0
@@ -233,3 +235,5 @@ unicode dec,unicode hex,character,name
 7925,1EF5,ỵ,uni1EF5
 7926,1EF6,Ỷ,uni1EF6
 7927,1EF7,ỷ,uni1EF7
+7928,1EF8,Ỹ,uni1EF8
+7929,1EF9,ỹ,uni1EF9
